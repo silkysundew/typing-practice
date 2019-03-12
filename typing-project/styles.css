@@ -1,0 +1,23 @@
+
+
+div  {
+    text-align: center;
+    font-size: 2em;
+}
+#num {
+    font-size: 1em;
+}
+
+
+.active {
+    text-decoration: underline;
+}
+.correct {
+    background-color: greenyellow;
+}
+.wrong {
+    background-color: red;
+}
+.errors-made {
+    color: red;
+}
